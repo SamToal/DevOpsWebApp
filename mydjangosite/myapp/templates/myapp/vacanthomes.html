@@ -1,0 +1,37 @@
+{% extends 'myapp/base.html' %}
+
+{% block content %}
+<!-- Table to display all vacant homes contained in the block to display nav bar -->
+<div class="container" style="margin-top: 30px;">
+    <table class="styled-table">
+    <thead>
+        <tr>
+            <th>Address</th>
+            <th>Postcode</th>
+            <th>Date of Last Occupancy</th>
+            <th>Notes</th>
+            <th>Edit Home</th>
+            <!-- Only show the delete button for admin users -->
+            {% if perms.myapp.delete_vacanthome %}
+            <th>Delete Home</th>
+            {% endif %}
+        </tr>
+    </thead>
+    {% for vacanthomes in vacanthome %}
+    <tbody>
+        <tr>
+            <td>{{vacanthomes.addressFirstLine}}</td>
+            <td>{{vacanthomes.postcode}}</td>
+            <td>{{vacanthomes.dateOfLastOccupancy}}</td>
+            <td>{{vacanthomes.homeNotes}}</td>
+            <td><a href="/editvacanthome/{{vacanthomes.id}}/">Edit Home</a></td>
+            <!-- Only show the delete button for admin users -->
+            {% if perms.myapp.delete_vacanthome %}
+            <td><a href="/deletevacanthome/{{vacanthomes.id}}/">Delete Home</a></td>
+            {% endif %}
+        </tr>
+    </tbody>
+    {% endfor %}
+    </table>
+</div>
+{% endblock content %}

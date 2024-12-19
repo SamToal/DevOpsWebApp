@@ -1,0 +1,74 @@
+Not Found: /favicon.ico
+Error with Home Creation 2024-03-06 12:06:07.735487 hours!
+Error with Home Creation at 2024-03-06 13:13:00.754725 hours!
+Error with Registration at 2024-03-06 15:30:47.822741 hours!
+Error with Home Creation at 2024-03-06 15:32:06.766983 hours!
+Error with Home Creation at 2024-03-06 15:33:14.690591 hours!
+Error with Home Creation at 2024-03-06 15:33:26.840843 hours!
+Error with Home Creation at 2024-03-06 15:35:14.319263 hours!
+Error with Home Creation at 2024-03-06 15:36:20.100595 hours!
+Error with Home Creation at 2024-03-06 15:37:13.189785 hours!
+Error with Home Creation at 2024-03-06 15:38:01.014770 hours!
+Error with Home Creation at 2024-03-06 15:39:13.397376 hours!
+Error with Home Creation at 2024-03-06 15:41:09.466744 hours!
+Error with Home Creation at 2024-03-06 15:42:07.611610 hours!
+Error with Home Creation at 2024-03-06 15:42:46.683793 hours!
+Error with Home Creation at 2024-03-06 15:43:26.013606 hours!
+Error with Vacant Home Creation at 2024-03-06 15:43:28.957631 hours!
+Error with Home Creation at 2024-03-06 15:43:35.230138 hours!
+Error with Vacant Home Creation at 2024-03-06 15:43:38.478578 hours!
+Error with Vacant Home Creation at 2024-03-06 15:44:06.701147 hours!
+Error with Home Creation at 2024-03-06 15:44:55.695546 hours!
+Error with Home Creation at 2024-03-06 15:45:01.782265 hours!
+Error with Vacant Home Creation at 2024-03-06 15:45:04.000072 hours!
+Error with Vacant Home Creation at 2024-03-06 15:45:49.208569 hours!
+Error with Vacant Home Creation at 2024-03-06 15:46:15.902048 hours!
+Error with Vacant Home Creation at 2024-03-06 15:46:39.185174 hours!
+Error with Vacant Home Creation at 2024-03-06 15:47:15.329920 hours!
+Error with Vacant Home Creation at 2024-03-06 15:48:17.150610 hours!
+Error with Vacant Home Creation at 2024-03-06 15:49:01.996510 hours!
+Error with Vacant Home Creation at 2024-03-06 15:49:50.084147 hours!
+Not Found: /favicon.ico
+Error with Registration at 2024-03-26 18:20:57.436104 hours!
+Error with Registration at 2024-03-26 18:21:16.815455 hours!
+Error with Home Creation at 2024-03-26 18:23:42.204290 hours!
+Error with Vacant Home Creation at 2024-03-26 18:25:21.856809 hours!
+Error with Registration at 2024-03-26 18:26:14.333304 hours!
+Error with Home Creation at 2024-03-26 18:27:12.379080 hours!
+Error with Vacant Home Creation at 2024-03-26 18:27:14.211406 hours!
+Not Found: /favicon.ico
+Error with Registration at 2024-11-28 10:11:59.763537 hours!
+Error with Home Creation at 2024-11-28 11:28:28.136322 hours!
+Error with Vacant Home Creation at 2024-11-28 11:28:29.238318 hours!
+Error with Home Creation at 2024-11-28 11:28:30.869721 hours!
+Error with Home Creation at 2024-11-28 11:28:31.493754 hours!
+Error with Vacant Home Creation at 2024-11-28 11:28:33.661648 hours!
+Error with Vacant Home Creation at 2024-11-28 11:28:52.133655 hours!
+AXES: New login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Created new record in the database.
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Updated existing record in the database.
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"} after repeated login failures.
+Too Many Requests: /login/
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"} after repeated login failures.
+Too Many Requests: /login/
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"} after repeated login failures.
+Too Many Requests: /login/
+Not Found: /favicon.ico
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"} after repeated login failures.
+Too Many Requests: /admin/login/
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"} after repeated login failures.
+Too Many Requests: /admin/login/
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/admin/login/"} after repeated login failures.
+Too Many Requests: /admin/login/
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"} after repeated login failures.
+Too Many Requests: /login/
+Error with Registration at 2024-12-19 14:26:20.991325 hours!
+AXES: New login failure by {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"}. Created new record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36", path_info: "/login/"} after repeated login failures.
+Too Many Requests: /login/
